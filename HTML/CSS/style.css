@@ -1,0 +1,33 @@
+body { background-color: rgb(154, 153, 153); }
+.nama{
+    font-family: 'Times New Roman', Times, serif;
+    color:aqua;
+}
+.gender{
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(0, 5, 75);
+}
+.menu{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    display: rgb(234, 0, 255);
+    margin: 20px;
+}
+.box0{
+    widht:300px;
+    background: red;
+    margin: 10px;
+    text-align: center;
+    line-height: 200px;
+    color: #fff;
+}
+.box1{
+    widht: 500px;
+    background: red;
+    margin: 20px;
+    text-align: center;
+    line-height: 300px;
+    color: #fff;
+}
